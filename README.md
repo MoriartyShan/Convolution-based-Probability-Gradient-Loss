@@ -2,8 +2,6 @@
 
 -------------
 
-By Guohang Shan, Shuangcheng Jia, Qian Li
-
 ## Dependencies
 
 - Python libarary:
